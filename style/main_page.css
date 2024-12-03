@@ -1,7 +1,7 @@
-body{
-    background: linear-gradient(#00000052, #00000090), url("https://preview.colorlib.com/theme/oneder/images/hero_1.jpg")center/cover;
+.first-section{
+    background: linear-gradient(#00000027, #0000008f), url("https://preview.colorlib.com/theme/oneder/images/hero_1.jpg")center/cover;
     height: 100vh;
-    background-repeat: no-repeat;
+
 }
 nav ul{
     width: 100%;
